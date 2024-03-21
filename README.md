@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on iot,android development and participate in hackathons
 - 📫 How to reach me joshuadmello777@gmail.com
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Joshuadmello04&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
   
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Joshuadmello04&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Joshuadmello04&langs_count=5&theme=tokyonight)]()
