@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joshuadmello04
-- 👀 I’m interested in Data Science and Web Dev
-- 🌱 I’m currently learning React Js
+- 👀 I’m interested in AI/ML and Web Dev
+- 🌱 I’m currently learning Django and React Js
 - 💞️ I’m looking to collaborate on iot,android development and participate in hackathons
 - 📫 How to reach me joshuadmello777@gmail.com
 
