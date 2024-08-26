@@ -9,6 +9,7 @@
 -📫 You can reach me at joshuadmello777@gmail.com.
 
 Link - https://joshua-dmello.vercel.app
+
 ![My Tech Stack]([https://github-readme-tech-stack.vercel.app/api/cards?fontSize=25&lineHeight=8&lineCount=2&width=1200&line1=react%2Creact%2C1897d6%3Bhtml%2Chtml%2Cbd1a1a%3Bcss%2Ccss%2C1489e7%3Bjavascript%2Cjs%2Cddef18%3Bbootstrap%2Cbootstrap%2C8e0ca8%3Btailwind+css%2Ctailwind%2C16bd97%3B&line2=python%2Cpython%2Cc91fc4%3Bmysql%2Cmysql%2C20dbbe%3Bflutter%2Cflutter%2C17c8a0%3Bdart%2Cdart%2C063e86%3Barduino%2Carduino%2Cd01515%3Bjava%2Cjava%2Cc80d0d%3B](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=3&theme=github_dark_red&width=600&line1=react%2Creact%2C58a6ff%3Bmongodb%2Cmongodb%2C47A248%3Bpostgresql%2Cpostgresql%2C094278%3Bjavascript%2Cjs%2Cb3dd0c%3Bbootstrap%2Cbootstrap%2C330092%3B&line2=springboot%2Cspringboot%2C6DB33F%3Bmysql%2Cmysql%2C066e81%3Bmariadb%2Cmariadb%2C2e9bae%3Bpython%2Cpython%2Cc5ce1f%3B&line3=flutter%2Cflutter%2C006d93%3Bdart%2Cdart%2C021192%3Breact+native%2Creactnative%2C0d5bcf%3Bsqlite%2Csqlite%2C00a6cc%3Bstreamlit%2Cstreamlit%2Cb40a0a%3B))
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Joshuadmello04&count_private=true&theme=tokyonight&showicons=true)]()
