@@ -27,7 +27,7 @@
 
 <!-- 💡 Neon Divider: Use your own SVG here for full control or fallback emoji below -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/main/gradient-blue-divider.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="70%" />
 </p>
 <!-- If you don't have your own SVG yet, use: -->
 <!-- <p align="center"><b>━━━━━━━━━━━💙━━━━━━━━━━━</b></p> -->
@@ -70,7 +70,7 @@
 
 <!-- 💎 Blue Glow Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/main/gradient-blue-divider.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="70%" />
 </p>
 <!-- Emoji fallback:
 <p align="center"><b>━━━━━━━━━━━💙━━━━━━━━━━━</b></p>
@@ -101,7 +101,7 @@
 
 <!-- ⚡️ Blue Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/main/gradient-blue-divider.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="70%" />
 </p>
 
 <!-- 💬 Coding Quote (blue style) -->
@@ -113,7 +113,7 @@
 
 <!-- 🦄 Final Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/main/gradient-blue-divider.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="70%" />
 </p>
 
 <!-- 🎉 Animated Thanks for Visiting Message -->
