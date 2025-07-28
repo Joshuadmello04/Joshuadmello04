@@ -66,7 +66,7 @@
     <td>
       <b><a href="https://github.com/Joshuadmello04/cyber-cypher">Cyber Cypher</a></b><br>
       <i>An intelligent platform supporting solo entrepreneurs throughout their startup journey.<br>
-      <b>Tech:</b> NextJS, Node.js, MongoDB, OpenAI API.</i>
+      <b>Tech:</b> NextJS, Node.js, Google-Trends-API, Linkedin API.</i>
     </td>
   </tr>
   <tr>
