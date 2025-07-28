@@ -16,7 +16,7 @@
 
 <!-- 💎 MODERN NEON GRADIENT DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" alt="Blue Neon Divider"/>
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" height="15px" alt="Blue Neon Divider"/>
 </p>
 
 <!-- 👤 LIVELY ABOUT ME -->
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" alt="Blue Neon Divider"/>
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" height="15px" alt="Blue Neon Divider"/>
 </p>
 
 <!-- 🏆 HIGHLIGHTS & ACHIEVEMENTS -->
@@ -41,10 +41,6 @@
   <li>Former Information Systems Intern at Hindustan Petroleum Corporation Limited</li>
   <li>Webmaster, Students’ Council of Fr. CRCE (2023/24)</li>
 </ul>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" alt="Blue Neon Divider"/>
-</p>
 
 <!-- 🐍 CONTRIBUTION SNAKE ANIMATION (dark/light support) -->
 <p align="center">
@@ -56,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" alt="Blue Neon Divider"/>
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" height="15px" alt="Blue Neon Divider"/>
 </p>
 
 <!-- 🚀 FEATURED PROJECTS: Responsive, gradient title, brief tech notes, mobile-friendly -->
@@ -93,7 +89,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" alt="Blue Neon Divider"/>
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" height="15px" alt="Blue Neon Divider"/>
 </p>
 
 <!-- 🛠️ TECH STACK: modern gradients, hover, mobile stack -->
@@ -112,10 +108,6 @@
   <img src="https://img.shields.io/badge/-Streamlit-23272F?style=for-the-badge&logo=streamlit&logoColor=FF4B4B" title="Streamlit"/>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" alt="Blue Neon Divider"/>
-</p>
-
 <!-- 📊 DYNAMIC STATS (compact spacing, mobile/desktop friendly) -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Joshuadmello04&show_icons=true&theme=tokyonight&count_private=true" height="175"/>
@@ -124,17 +116,17 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" alt="Blue Neon Divider"/>
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" height="15px" alt="Blue Neon Divider"/>
 </p>
 
 <!-- 🦾 HIGHLIGHTED CODING QUOTE -->
-<blockquote align="center" style="color:#0099ff;font-size:1.09em;font-family:'Fira Code',monospace; text-shadow:0 2px 11px #00e8ff,0 2px 20px #c471ed; border-radius:6px;">
+<blockquote align="center" style="color:#0099ff;font-size:1.09em;font-family:'Fira Code',monospace; text-shadow:0 2px 11px #00e8ff,0 2px 15px #c471ed; border-radius:6px;">
   <b>"Code is like humor. When you have to explain it, it’s bad."</b><br>
   <span style="color:#38b6ff;">— Cory House</span>
 </blockquote>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" alt="Blue Neon Divider"/>
+<img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" height="15px" alt="Blue Neon Divider"/>
 </p>
 
 <!-- 📬 CONTACT & CONNECT (gradient social badges for style) -->
