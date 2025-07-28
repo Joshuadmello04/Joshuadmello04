@@ -16,17 +16,23 @@
   <img src="https://img.shields.io/github/stars/Joshuadmello04?style=for-the-badge&color=fa1e4e" alt="GitHub Stars"/>
 </p>
 
-<!-- 🐍 3D Contribution Snake Animation -->
+<!-- 🐍 3D Contribution Snake Animation (dark/light support) -->
 <p align="center">
-  <img src="https://github.com/Joshuadmello04/Joshuadmello04/blob/output/dist/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/dist/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/dist/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
-<!-- 💡 Neon Divider (host in your repo or replace with below emoji bar for max compatibility) -->
+<!-- 💡 Neon Divider: Use your own SVG here for full control or fallback emoji below -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/.github/images/hr-light2.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/main/gradient-blue-divider.svg" width="70%" />
 </p>
+<!-- If you don't have your own SVG yet, use: -->
+<!-- <p align="center"><b>━━━━━━━━━━━💙━━━━━━━━━━━</b></p> -->
 
-<!-- 🧑‍💻 Modern About Me Table (no YAML, blue/dark vibe) -->
+<!-- 🧑‍💻 Modern About Me Table -->
 <table align="center" style="border:1px solid #222; background:#181c24; color:#58a6ff;">
   <tr>
     <td><b>Name</b></td>
@@ -62,14 +68,15 @@
   </tr>
 </table>
 
-<!-- 💎 Blue Glow Divider (or emoji line fallback) -->
+<!-- 💎 Blue Glow Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/.github/images/hr-light2.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/main/gradient-blue-divider.svg" width="70%" />
 </p>
-<!-- Or for emoji fallback: -->
-<!-- <p align="center"><b>━━━━━━━━━━━💙━━━━━━━━━━━</b></p> -->
+<!-- Emoji fallback:
+<p align="center"><b>━━━━━━━━━━━💙━━━━━━━━━━━</b></p>
+-->
 
-<!-- 🛠️ Tech Stack Badges (blue/dark theme) -->
+<!-- 🛠️ Tech Stack Badges -->
 <h2 align="center" style="color:#0099ff;">🛠️ Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/-React-23272F?style=for-the-badge&logo=react&logoColor=58a6ff"/>
@@ -94,7 +101,7 @@
 
 <!-- ⚡️ Blue Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/.github/images/hr-light2.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/main/gradient-blue-divider.svg" width="70%" />
 </p>
 
 <!-- 💬 Coding Quote (blue style) -->
@@ -106,10 +113,10 @@
 
 <!-- 🦄 Final Neon Divider -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshat46/FlyingFox/master/.github/images/hr-light2.svg" width="70%" />
+  <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/main/gradient-blue-divider.svg" width="70%" />
 </p>
 
-<!-- 🎉 Animated Thanks for Visiting Message (fit for mobile, under 300px wide) -->
+<!-- 🎉 Animated Thanks for Visiting Message -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=300&color=58a6ff&lines=Thanks+for+visiting!+%F0%9F%91%8B" alt="Thanks for visiting!">
 </p>
