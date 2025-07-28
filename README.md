@@ -3,22 +3,31 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dWR2MjNrdnhtZGc2dnVwbmFrbG81MDcybXh5NzJ2Yzhqbm9yb2l3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" alt="Dark Hacker Banner" width="70%" style="border-radius:18px; box-shadow:0 2px 24px #0af9,0 1px 12px #a16ae8;" />
 </p>
 
-<!-- 🌀 ALIVE ANIMATED HEADING (keep prominent, blue-cyan)-->
+<!-- 🌀 ALIVE ANIMATED HEADING -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2450&pause=800&color=0099FF&center=true&width=620&lines=Joshua+Dmello;AI%2FML+%26+Full-Stack+Developer;Mumbai%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Joshua Dmello Animated Heading" />
 </p>
 
-<!-- 💎 MODERN NEON GRADIENT DIVIDER (alternate blue-purple) -->
+<!-- 👁️ PROFILE VIEWS, FOLLOWERS, PUBLIC REPOS STATS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Joshuadmello04&style=for-the-badge&color=00b2ff" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Joshuadmello04?style=for-the-badge&label=Followers&color=c471ed" alt="Followers"/>
+</p>
+
+<!-- 💎 MODERN NEON GRADIENT DIVIDER -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Joshuadmello04/Joshuadmello04/output/gradient-blue-divider.svg" width="86%" alt="Blue Neon Divider"/>
 </p>
 
-<!-- 👤 ABOUT ME -->
+<!-- 👤 LIVELY ABOUT ME -->
 <h2 align="center" style="background: linear-gradient(90deg,#00b2ff,#c471ed);-webkit-background-clip:text;color:transparent;display:inline-block;">👤 About Me ⚡️</h2>
 <p align="center" style="font-family:'Fira Code', monospace;font-size:17px;line-height:1.7;">
-  I'm <strong>Joshua Dmello</strong>, a developer based in Mumbai, India, passionate about <strong>Artificial Intelligence</strong>, <strong>Machine Learning</strong>, and <strong>Full-Stack Web Development</strong>.<br><br>
-  I love solving real-world problems through code and collaborating on innovative projects and hackathons.<br><br>
-  Outside coding, I play football and basketball competitively, engage with theology, and always explore the latest in tech.
+  <b>🚀 Creative Coder | AI/ML Explorer | Builder at Heart</b><br><br>
+  Hi! I'm <strong>Joshua Dmello</strong> from Mumbai, India.<br>
+  Passionate about <span title="Artificial Intelligence">🤖 AI</span>, <span title="Machine Learning">🧠 ML</span>, and <span title="Web Development">🌐 Full-Stack Dev</span>.<br><br>
+  <b>Currently:</b> Engineering cool solutions with code, learning cutting-edge tech, and always seeking new collaborations. <br><br>
+  <b>Beyond Coding:</b> ⚽️ Footballer, 🏀 Basketball enthusiast, ⛪️ Theology explorer.<br>
+  <i>Fun fact:</i> I love challenging hackathons and building things that matter in the real world! 🌟
 </p>
 
 <p align="center">
